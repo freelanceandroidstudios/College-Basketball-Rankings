@@ -7,6 +7,6 @@
     <color name="green">#009900</color>
     <color name="blue">#000099</color>
 
-    <string name="AP_KEY">https://api.sportsdatallc.org/ncaamb-t3/polls/AP/2014/rankings.xml?api_key=cpk2n99vv3hu4hdngyk7prts</string>
+    
 
 </resources>
